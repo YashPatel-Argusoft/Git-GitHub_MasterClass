@@ -1,5 +1,6 @@
 Hi this is test file!
 
 Next line added.
+Yes new line!
 
 SAYONARA...^("_")^
