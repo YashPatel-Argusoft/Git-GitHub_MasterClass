@@ -3,4 +3,6 @@ Hi this is test file!
 Next line added.
 Yes new line!
 
+Added from GitHub. :>
+
 SAYONARA...^("_")^
